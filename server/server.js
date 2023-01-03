@@ -17,7 +17,7 @@ app.use(express.json())
 
 app.get('/', async (req, res) => {
   res.status(200).send({
-    message: 'Hello from AI'
+    message: 'Hello from AI 👋'
   })
 })
 
@@ -41,8 +41,8 @@ app.post('/', async (req, res) => {
 
   } catch (error) {
     console.error(error)
-    res.status(500).send(error || 'Something went wrong');
+    res.status(500).send(error || 'Something went wrong- https://github.com/HMAHD');
   }
 })
 
-app.listen(5000, () => console.log('AI server started on http://localhost:5000'))
+app.listen(5000, () => console.log('AI server started on https://chatai-rmfs.onrender.com'))
