@@ -1,6 +1,5 @@
 <div align="center">
-    
-    # ChatAI
+    <h1>ChatAI</h1>
 </div>
 <div align="center">
     <a href="http://chat-ai-two.vercel.app/">
@@ -21,7 +20,8 @@
 </div>
 <div align="center">
 ChatAI OpenAI is an open source chatbot application that uses natural language processing (NLP) to interact with users. It is designed to provide a conversational experience that is both engaging and informative. The application can be used for customer service, marketing, or any other type of conversation.ChatAI OpenAI uses the latest in artificial intelligence technology to understand user input and respond accordingly. It can be trained to recognize specific words and phrases, as well as understand the context of conversations. This allows it to provide more accurate responses and better customer service.
- 
+ </div>
+  
 <br><br>
 The application also includes a variety of features such as: 
 - Natural language processing (NLP) 
@@ -32,7 +32,7 @@ The application also includes a variety of features such as:
 - Ability to create custom bots 
 - Analytics and reporting tools 
 
-   </div>
+ 
 
 ### Built With
 
