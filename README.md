@@ -1,6 +1,6 @@
 <div align="center">
     
-    <h1>ChatAI </h1>
+    # ChatAI
 </div>
 <div align="center">
     <a href="http://chat-ai-two.vercel.app/">
