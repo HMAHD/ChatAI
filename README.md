@@ -22,7 +22,7 @@
 ChatAI OpenAI is an open source chatbot application that uses natural language processing (NLP) to interact with users. It is designed to provide a conversational experience that is both engaging and informative. The application can be used for customer service, marketing, or any other type of conversation.ChatAI OpenAI uses the latest in artificial intelligence technology to understand user input and respond accordingly. It can be trained to recognize specific words and phrases, as well as understand the context of conversations. This allows it to provide more accurate responses and better customer service.
  </div>
   
-<br><br>
+</br></br>
 > The application also includes a variety of features such as: 
 - Natural language processing (NLP) 
 - Machine learning algorithms 
@@ -31,10 +31,9 @@ ChatAI OpenAI is an open source chatbot application that uses natural language p
 - Support for multiple languages 
 - Ability to create custom bots 
 - Analytics and reporting tools 
+</br>
 
- 
-<br>
-### Built With
+## Built With
 
  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Remix](https://img.shields.io/badge/OpenAI-%23000.svg?style=for-the-badge&logo=remix&logoColor=gold)![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
