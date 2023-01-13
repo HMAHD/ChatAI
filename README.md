@@ -84,13 +84,10 @@ npm run dev
 
 ## Hosted In
 
-<a href="https://render.com/">
-    <img src="https://jamstack.asia/images/deployplatforms/render.svg" width="40" height="40"  alt="Render.com"/>
-</a>
 <a href="https://www.vercel.com">
     <img src="https://www.p99conf.io/wp-content/uploads/2022/06/vercel.png" width="168" height="40"  alt="Vercel.com"/>
 </a>
 
 ## Licensing
 
-The MIT License 2023 - **HMAHD**
+The MIT License 2023 -  Under **Akash Hasendra**
